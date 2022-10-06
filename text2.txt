@@ -2,6 +2,10 @@ text2:
 this is my second_file
 
 
+<<<<<<< HEAD
 
 
 branch dev1 writing here
+=======
+branch dev2 writing here
+>>>>>>> dev2
